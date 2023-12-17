@@ -31,7 +31,7 @@ h1{
 }
 .questions .text{
     transition: 3s;
-    background-color: white;
+    /* background-color: ; */
     width: 100%;
     margin: 0 auto;
     height: 200px;
@@ -40,7 +40,7 @@ h1{
     display: none;
 }
 .questions p{
-    width: 50%;
+    width: 80%;
     line-height: 30px;
     margin: 0 auto;
 }
