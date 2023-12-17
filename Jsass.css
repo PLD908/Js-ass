@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+.questions{
+    position: relative;
+    padding: 45px;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.questions button{
+    background-color: gray;
+    padding: 0 40px;
+    width: 100%;
+    height: 50px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 22px;
+    cursor: pointer;
+}
+button .angle{
+    right: 0;
+}
+.questions .text{
+    background-color: white;
+    width: 100%;
+    margin: -5px auto;
+    height: 200px;
+    box-shadow: 0 0 20px 0;
+    padding: 30px;
+    display: none;
+}
+.questions p{
+    width: 50%;
+    line-height: 30px;
+    margin: 0 auto;
+}
+.questions .ques{
+    margin-bottom: 5px;
+}
