@@ -29,6 +29,7 @@ h1{
     align-items: center;
     cursor: pointer;
     border-radius: 15px;
+    color: white;
 }
 .questions .text{
     transition: 3s;
