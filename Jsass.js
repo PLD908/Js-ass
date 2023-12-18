@@ -14,6 +14,7 @@ for (let i = 0; i < angleDown.length; i++) {
     angleDown[i].style.display = 'none';
 }
 
+//The function foreach question
 function ques(answer, minus, angleDown, angleRight, add, color) {
     let showAnswer = document.getElementById(answer);
     let showMinus = document.getElementById(minus);
